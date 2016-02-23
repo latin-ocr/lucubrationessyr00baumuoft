@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucubrationessyr00baumuoft_0277.png"; bbox 0 0 1820 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 763 554 1407 822">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 763 554 1407 822">
+     <span class='ocr_line' id='line_1_1' title="bbox 763 554 1407 698; baseline 0.008 -17"><span class='ocrx_word' id='word_1_1' title='bbox 763 554 1051 698; x_wconf 79' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1088 605 1151 684; x_wconf 83' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1180 604 1407 686; x_wconf 68' lang='lat' dir='ltr'><strong>Toronlo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 981 725 1187 822; baseline 0.015 -17"><span class='ocrx_word' id='word_1_4' title='bbox 981 725 1187 822; x_wconf 79' lang='lat' dir='ltr'><strong>h‘hrary</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 747 1035 1147 1266">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 747 1035 1147 1266">
+     <span class='ocr_line' id='line_1_3' title="bbox 749 1035 1142 1122; baseline 0.008 -3"><span class='ocrx_word' id='word_1_5' title='bbox 749 1047 885 1120; x_wconf 85' lang='lat' dir='ltr'><strong>Do</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 928 1035 1142 1122; x_wconf 85' lang='lat' dir='ltr'><strong>NoT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 747 1201 1147 1266; baseline 0.008 -3"><span class='ocrx_word' id='word_1_7' title='bbox 747 1201 1147 1266; x_wconf 86' lang='lat' dir='ltr'>REMOVE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 398 420 1522 2558">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 398 420 1522 2558">
+     <span class='ocr_line' id='line_1_5' title="bbox 398 420 1522 2558; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 398 420 1522 2558; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
